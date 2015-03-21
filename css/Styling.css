@@ -1,0 +1,120 @@
+html, body, #page {
+	height: 100%;
+}
+
+body {
+	margin: 0px;
+}
+
+.header {
+	padding-top: 10px;
+	overflow: hidden;
+}
+
+.NavBar {
+	float: right;
+}
+
+.NavBar div {
+	display: inline;
+}
+
+.NavBar .LoginButton {
+	width: 50px;
+	height: 22px;
+	background-color: #4387FD;
+	display: inline-block;
+	border-radius: 2px;
+	color: white;
+	padding-top: 4px;
+	padding-left: 8px;
+}
+
+.NavBar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-right: 3em;
+    padding-top: 1em;
+}
+
+.NavBar ul li {
+	display: inline;
+	font-family: arial,sans-serif;
+	margin-right: 4px;
+}
+
+.MainLogo {
+	width: 538px;
+	height: 190px;
+	margin-top: 125px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.SearchBox {
+	width: 175px;
+	height: 21px;
+	padding-top: 15px;
+	padding-left: auto;
+	padding-right: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.SearchButton {
+	width: 57px;
+	height: 21px;
+	padding-top: 7px;
+	padding-left: auto;
+	padding-right: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.SearchButton input {
+	background-color: #f5f5f5;
+}
+
+.footer {
+	background-color: #F2F2F2;
+	height: 3em;
+	float: bottom;
+	border-top: .1em;
+	border-top-color: darkgrey;
+	border-top-style: solid;
+	margin-top: -3.1em;
+}
+
+.leftfooter {
+	position: absolute;
+	left: 0px;
+}
+
+.leftfooter ul {
+	-webkit-padding-start: 0px;
+	-webkit-margin-after: 0em;
+}
+
+.leftfooter ul li{
+	margin-top: auto;
+    margin-bottom: auto;
+    display: inline;
+    padding-left: 1em;
+}
+
+.rightfooter {
+	position: absolute;
+	right: 0px;
+}
+
+.rightfooter ul {
+	-webkit-margin-after: 0em;
+}
+
+.rightfooter ul li{
+	margin-top: auto;
+    margin-bottom: auto;
+    display: inline;
+    padding-right: 1em;
+}
