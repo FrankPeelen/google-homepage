@@ -44,20 +44,26 @@ body {
 	margin-right: 4px;
 }
 
+.middle {
+	width: 100%;
+	padding-top: 125px;
+}
+
 .MainLogo {
-	width: 538px;
-	height: 190px;
-	margin-top: 125px;
-	margin-left: auto;
+}
+
+img {
+	max-width: 30%;
+	width: 325px;
 	margin-right: auto;
+	margin-left: auto;
+	display: block;
 }
 
 .SearchBox {
 	width: 175px;
 	height: 21px;
 	padding-top: 15px;
-	padding-left: auto;
-	padding-right: auto;
 	margin-left: auto;
 	margin-right: auto;
 }
