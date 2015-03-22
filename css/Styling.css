@@ -42,6 +42,7 @@ body {
 	display: inline;
 	font-family: arial,sans-serif;
 	margin-right: 4px;
+	font-size: 1em;
 }
 
 .middle {
@@ -107,6 +108,7 @@ img {
     margin-bottom: auto;
     display: inline;
     padding-left: 1em;
+    font-size: 1em;
 }
 
 .rightfooter {
@@ -123,4 +125,5 @@ img {
     margin-bottom: auto;
     display: inline;
     padding-right: 1em;
+    font-size: 1em;
 }
